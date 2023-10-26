@@ -30,8 +30,9 @@ Dedicated and Enthusiastic Full Stack Web Developer | Passionate about JavaScrip
 
 </div>
 
+## 📝 Get in Touch
 
-📫 How to reach me m_grahovac@yahoo.com
+📫 How to reach me: m_grahovac@yahoo.com
 
 <!---
 markogra/markogra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
