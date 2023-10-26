@@ -1,6 +1,7 @@
 # Hello, I'm Marko 👋
 
- Full Stack Web Developer  <img  src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="100px" />
+ Full Stack Web Developer 
+ <div> <img  src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="100px" /> </div>
 
 ## 🚀 About Me
 
