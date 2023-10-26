@@ -1,4 +1,23 @@
-- 👋 Hi, I’m Marko 
+# Hello, I'm Marko 👋
+
+ Full Stack Web Developer 
+
+## 🚀 About Me
+
+Dedicated and Enthusiastic Full Stack Web Developer | Passionate about JavaScript and PHP Technologies
+
+## 💻 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, PHP
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, VS Code, npm, Composer
+
+
+## 📝 Get in Touch
+
+
+
 
 
 <!---
