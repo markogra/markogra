@@ -1,6 +1,6 @@
 # Hello, I'm Marko 👋
 
- Full Stack Web Developer 
+ Full Stack Web Developer  <img  src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="100px" />
 
 ## 🚀 About Me
 
@@ -8,10 +8,7 @@ Dedicated and Enthusiastic Full Stack Web Developer | Passionate about JavaScrip
 
 ## 💻 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, PHP
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code, npm, Composer
+
 
 
 ## 📝 Get in Touch
