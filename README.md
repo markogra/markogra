@@ -1,7 +1,11 @@
+<div id="header" align="center">
 # Hello, I'm Marko 👋
 
  Full Stack Web Developer 
  <div> <img  src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="100px" /> </div>
+
+ 
+</div>
 
 ## 🚀 About Me
 
