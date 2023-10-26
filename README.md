@@ -29,12 +29,7 @@ Dedicated and Enthusiastic Full Stack Web Developer | Passionate about JavaScrip
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   
 
-
-
-## 📝 Get in Touch
-
-
-
+</div>
 
 
 <!---
